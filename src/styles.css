@@ -2862,6 +2862,16 @@ button {
   vertical-align: middle;
 }
 
+.hden-badge-opt {
+    background-color: #999999;
+    color: #fff;
+    font-size: 11px;
+    padding: 2px 6px;
+    border-radius: 2px;
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
 .hden-form-input,
 .hden-form-textarea {
   width: 100%;
